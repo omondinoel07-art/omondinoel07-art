@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **omondinoel07-art/omondinoel07-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,4 @@ Data Scientist and MLE
 * ✉️  You can contact me at [omondinoel07@gmail.com](mailto:omondinoel07@gmail.com)
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,posgres,mysql,jupyter,sklearn,docker,aws,linux,git,github,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,postgres,mysql,sklearn,docker,aws,linux,git)](https://skillicons.dev)
