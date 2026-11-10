@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Noel Omondi
 ====================================================================================================================================
 
-Data Scientist and MLE
+Machine Learning Engineer
 ----------------------
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [omondinoel07@gmail.com](mailto:omondinoel07@gmail.com)
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,postgres,mysql,sklearn,docker,aws,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,postgres,mysql,sklearn,docker,aws,pytorch,kubernetes,linux,git)](https://skillicons.dev)
